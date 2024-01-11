@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162382708045",
+    "project_id": "mobquiz-ce496",
+    "storage_bucket": "mobquiz-ce496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162382708045:android:56dca035269b1ab92acb04",
+        "android_client_info": {
+          "package_name": "com.example.mobquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTNGExmi3DdVQvTJaSJyDDkKTCT-QLG28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
